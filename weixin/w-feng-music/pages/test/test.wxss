@@ -1,0 +1,19 @@
+/* pages/test/test.wxss */
+.color1{
+  background-color: gold
+}
+.color2{
+  background-color: darkblue
+}
+.color3{
+  background-color: gray
+}
+.chunk{
+  width: 60px;
+  height: 60px;
+}
+.container1{
+  display: flex;
+  flex-direction: row-reverse;
+  
+}
